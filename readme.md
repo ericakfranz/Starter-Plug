@@ -1,0 +1,1 @@
+Starter Plug makes starting WordPress plugins simpler.
